@@ -11,7 +11,7 @@ the activity* and hit the link named **update**.
 
 If you want to practice this activity, see instructions on Medium Post: *Easy C++23 GitHub Autograding with CMake 4, Clang 19 and Import Std*.
 
-**Student Name:** *Please put your name HERE*
+**Student Name:** Igor
 
 ## Problem Description
 
