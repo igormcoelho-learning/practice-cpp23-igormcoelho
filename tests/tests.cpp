@@ -7,10 +7,14 @@ import boost.ut;
    using namespace boost::ut;
  
    "add"_test = [] {
+     if(add(1,1) != 2)
+       println("expected add(1,1) == 2, got {}", add(1,1));
      expect(add(1,1) == 2);
    };
 
    "mul"_test = [] {
+     if(mul(3,3) != 9)
+       println("expected mul(3,3) == 9, got {}", mul(3,3));
     expect(mul(3,3) == 9);
   };
   return 0;
